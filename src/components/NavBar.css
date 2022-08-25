@@ -1,0 +1,46 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .ulNav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    justify-content: space-between;
+    position: sticky;
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    
+
+  }
+  
+  li a:hover {
+    background-color: rgb(255, 255, 255);
+    color: black;
+  }
+  .logo{
+    margin-left: 50%;
+  
+  }
+  .aLogo{
+    text-decoration: none;
+    color: white;
+    width: 175px;
+    margin: 75px;
+   
+  }
