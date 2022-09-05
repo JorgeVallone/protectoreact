@@ -1,0 +1,84 @@
+/* Button resta */
+
+.buttonDecrement{
+    padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #04AA6D;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+.buttonDecrement:hover  {background-color: #3e8e41}
+
+.buttonDecrement:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+
+/* Button suma */
+.buttonAdd{
+    padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: rgba(248, 170, 170, 0.434);
+  background-color: #940000;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px rgb(74, 0, 0);
+}
+.buttonAdd:hover  {background-color: #ee0000}
+
+.buttonAdd:active {
+    background-color: #ff0000;
+    box-shadow: 0 5px rgb(110, 119, 54);
+    transform: translateY(4px);
+}
+
+/* Button agregar al carrito */
+.buttonAddCarrito{
+    position: relative;
+    background-color: #04AA6D;
+    border: none;
+    font-size: 28px;
+    color: #FFFFFF;
+    padding: 20px;
+    width: 200px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    text-decoration: none;
+    overflow: hidden;
+    cursor: pointer;
+}
+
+/* Span count  */
+.spanCount{
+    display: block;
+    width: 70%;
+    border: none;
+    background-color: #0767ed;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+
+}
+
+/* Div item count */
+.divItemCount{
+    display: flex;
+    background-color: #f1f1f1;
+    color: white;
+    width: 100px;
+    margin: 10px;
+   
+   
+
+}
