@@ -7,15 +7,15 @@
   cursor: pointer;
   outline: none;
   color: #fff;
-  background-color: #04AA6D;
+  background-color: #aa0404;
   border: none;
   border-radius: 15px;
   box-shadow: 0 9px #999;
 }
-.buttonDecrement:hover  {background-color: #3e8e41}
+.buttonDecrement:hover  {background-color: #f20000}
 
 .buttonDecrement:active {
-    background-color: #3e8e41;
+    background-color: #f70000;
     box-shadow: 0 5px #666;
     transform: translateY(4px);
   }
@@ -28,15 +28,15 @@
   cursor: pointer;
   outline: none;
   color: rgba(248, 170, 170, 0.434);
-  background-color: #940000;
+  background-color: #40f205;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px rgb(74, 0, 0);
+  box-shadow: 0 9px rgb(6, 186, 0);
 }
-.buttonAdd:hover  {background-color: #ee0000}
+.buttonAdd:hover  {background-color: #18ff03}
 
 .buttonAdd:active {
-    background-color: #ff0000;
+    background-color: #24d900;
     box-shadow: 0 5px rgb(110, 119, 54);
     transform: translateY(4px);
 }
@@ -76,8 +76,8 @@
     display: flex;
     background-color: #f1f1f1;
     color: white;
-    width: 100px;
-    margin: 10px;
+  
+    margin: 30px;
    
    
 
