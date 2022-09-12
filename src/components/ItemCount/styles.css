@@ -27,7 +27,7 @@
   text-align: center;
   cursor: pointer;
   outline: none;
-  color: rgba(248, 170, 170, 0.434);
+  color: rgba(1, 0, 0, 0.434);
   background-color: #40f205;
   border: none;
   border-radius: 15px;
@@ -76,9 +76,12 @@
     display: flex;
     background-color: #f1f1f1;
     color: white;
-  
-    margin: 30px;
-   
-   
+    margin: 30px; 
 
+}
+
+/* Container item count para poder centrar todo en un solo objeto */
+.containerItemCount{
+  display: flex;
+  flex-direction: initial;
 }

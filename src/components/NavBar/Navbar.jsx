@@ -1,13 +1,13 @@
 import React from 'react'
 import CartWidget from '../CartWidget'
 import './NavBar.css'
- 
+
 
 function Navbar ()  {
   return (
     <nav>
          <ul className='ulNav'>
-            <label for="" className='logo'>
+            <label htmlfor="" className='logo'>
               <a href="#logo" className='aLogo'>Beto articulos para el hogar</a>
             </label>
             <li className='liNav'><a href="#home">Home</a></li>
