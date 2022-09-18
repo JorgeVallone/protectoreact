@@ -21,6 +21,10 @@ const ItemCount = ({stock, initial, onAdd}) => {
       setCount(count - 1);
     }
   }
+  const addCart = () => {
+    onAdd(count);
+    setCount(initial)
+  }
 
 
   useEffect (() => {
@@ -37,7 +41,7 @@ const ItemCount = ({stock, initial, onAdd}) => {
             <span className='spanCount'>{count}</span>
             <button onClick={handleAdd} className='buttonAdd'>+</button>
             </div>
-            <button onClick={() => onAdd(count)}className='buttonAddCarrito'>Agregar al carrito</button>
+            <button onClick={addCart}className='buttonAddCarrito'>Agregar al carrito</button>
 
           </div>
 
