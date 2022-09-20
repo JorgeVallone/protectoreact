@@ -1,9 +1,23 @@
-import React from 'react'
+import React, { useContext } from 'react'
+import { Shop } from '../../context/ShopProvider'
 
 const Cart = () => {
+  const {cart} = useContext(Shop);
+
+  console.log(cart);
   return (
-    <div>Cart</div>
-  )
+    <>
+    <ul>
+      {cart.map(producto => {
+        return <li key={producto.id}>{producto.title} <img src={producto.image} width='80px' alt={producto.title}/>
+        
+        
+        <button>Confirmar compra</button>
+        </li>
+      })}
+    </ul>
+    </>
+    )
 }
 
 export default Cart

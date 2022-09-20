@@ -10,13 +10,17 @@ import {
 import ItemListContainer from './containers/ItemListContainer';
 import NotFound from './components/NotFound';
 import Cart from './containers/CartContainer';
+import ShopProvider from './context/ShopProvider';
 
 function App() {
   return (
+    
+    <ShopProvider>
+
     <BrowserRouter>
     
      <Navbar/>
-  
+    
     <Routes>
         <Route path='/' element={<ItemListContainer/>}/>
         <Route path='/category/:categoryId' element={<ItemListContainer/>}/>
@@ -27,6 +31,9 @@ function App() {
     
     
     </BrowserRouter>
+
+
+    </ShopProvider>
   );
 }
 
