@@ -1,8 +1,9 @@
 import { createContext } from "react";
 import React from 'react'
 import { useState } from "react";
+import { useContext } from "react";
 
-export const Shop = createContext(null);
+export const Shop = createContext();
 
 
 const ShopProvider = ({children}) => {
@@ -34,20 +35,28 @@ const ShopProvider = ({children}) => {
     return cart.some(product => product.id === id)
   }
 
-  const removeItem = (id) => {
-    const productosFiltrados = cart.filter(producto => producto.id !== id)
-    setCart(productosFiltrados);
+  const removeItem = (itemToRemove) => {
+    const filteredProducts = cart.filter(item => item !== itemToRemove)
+    setCart(filteredProducts);
 }
 
   const clearCart = () => {
+    setCart([])
+  }
 
+  const cartQuantity = () => {
+    return cart.reduce((acc,product) =>  acc += product.quantity,0)
+  }
+
+  const cartTotal = () => {
+    return cart.reduce((acc,product) => acc += product.price * product.quantity, 0)
   }
 
   return (
-   <Shop.Provider value={{cart, addItem , removeItem}}>
+   <Shop.Provider value={{cart , addItem , removeItem, isInCart, clearCart, cartQuantity, cartTotal}}>
     {children}
    </Shop.Provider>
   )
 }
-
+export const useCart = () => useContext(Shop);
 export default ShopProvider;

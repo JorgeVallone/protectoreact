@@ -1,21 +1,41 @@
 import React, { useContext } from 'react'
-import { Shop } from '../../context/ShopProvider'
-
+import { Shop, useCart } from '../../context/ShopProvider'
+import './styles.css';
 const Cart = () => {
-  const {cart} = useContext(Shop);
+  
 
+  const {cart} = useContext(Shop);
+  const {cartTotal, cartQuantity, isInCart, }= useCart();
+ 
   console.log(cart);
   return (
     <>
-    <ul>
+    <table>
       {cart.map(producto => {
-        return <li key={producto.id}>{producto.title} <img src={producto.image} width='80px' alt={producto.title}/>
+        return <tr key={producto.id}>{producto.title} <img src={producto.image} width='80px' alt={producto.title}  />
         
+        <th>Precio Unitario </th>
+        <td> {producto.price}</td> 
+
+        <th>Cantidad unitaria </th>
+        <td>{isInCart()|| ""} </td>  
+
+        <th>Cantidad Total </th>
+          <td>{cartQuantity()|| ""} </td>
         
+
+        <th>Valor Total </th>
+         <td>{cartTotal()|| ""} </td> 
+        
+         <button>Eliminar Artículo</button>
+
         <button>Confirmar compra</button>
-        </li>
-      })}
-    </ul>
+        </tr>
+       
+     
+     
+     })}
+    </table>
     </>
     )
 }
