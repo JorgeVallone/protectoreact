@@ -42,7 +42,7 @@ const ShopProvider = ({children}) => {
 
   const clearCart = () => {
     setCart([])
-  }
+  } 
 
   const cartQuantity = () => {
     return cart.reduce((acc,product) =>  acc += product.quantity,0)
