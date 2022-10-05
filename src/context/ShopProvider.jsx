@@ -49,7 +49,10 @@ const ShopProvider = ({children}) => {
   }
 
   const cartTotal = () => {
-    return cart.reduce((acc,product) => acc += product.price * product.quantity, 0)
+    
+    const cartTotal = cart.reduce((acc,product) => acc += product.price * product.quantity, 0)
+    console.log(cartTotal)
+    return cartTotal;
   }
 
   return (

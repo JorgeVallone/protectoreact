@@ -11,7 +11,7 @@ function Navbar ()  {
               {/* <a href="#logo" className='aLogo'>Beto articulos para el hogar</a> */}
             </label>
             <li className='liNav'><Link to="/">Home</Link></li>
-            <li className='liNav'><Link to="/category/men's clothing">Men's clothing</Link></li>
+            <li className='liNav'><Link to="/category/televisor30">Televisor de 30</Link></li>
             <li className='liNav'><Link to="/category/women's clothing">Women's clothing</Link></li>
             <li className='liNav'><Link to="/category/electronics">Electronics</Link></li>
             <li className='liNav'><Link to="/category/jewelery">Jewelery</Link></li>

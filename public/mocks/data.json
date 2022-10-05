@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "title": "SANYO-Televisor 30 FULLHD",
+        "price": "$30000",
+        "description": "El televisor con mejor resolución del mercado, cuenta con una pantalla de 30 pulgadas, con control remoto, Netflix",
+        "category": "televisor30",
+        "image": "data:image/jpeg;base64,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",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "RCA-Televisor 30 FULLHD",
+        "price": "$31000",
+        "description": "El televisor con mejor resolución del mercado, cuenta con una pantalla de 30 pulgadas, con control remoto, Netflix, FULLHD",
+        "category": "televisor30",
+        "image": "data:image/jpeg;base64,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",
+        "rating": {
+            "rate": 4.1,
+            "count": 259
+        }
+    },
+    {
+        "id": 3,
+        "title": "TCL-Televisor 30 FULLHD",
+        "price": "$30500",
+        "description": "El televisor que cuenta con una pantalla de 30 pulgadas, con control remoto, Netflix, FULLHD tv digital abierta",
+        "category": "televisor30",
+        "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxAPDxAPEA8PEBAPEA8QDxAVDw8QEA8PFRUWFhUVFRUYHiggGBolHRYVIjEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGhAQGy0dICUtLS0tLS0tLS0tLS0tLS8tLS0tLS0tLS4uLS0tLSsvLS0tLS0tLS0tLS0tLS0rLi0tLv/AABEIAMUBAAMBIgACEQEDEQH/xAAcAAABBAMBAAAAAAAAAAAAAAAAAQIGBwQFCAP/xABYEAABAwIDAQkHDQsKBgMAAAABAAIDBBEFEiExBgcTIkFRVHHSFBcjYZOk0TIzQnJ1gZGUlaGxsrQWJCVEUlNVhJLB8DQ1Q1Zic4KFs9MVg6PC4eJjZGX/xAAaAQEBAQEBAQEAAAAAAAAAAAAAAQIDBAUG/8QAOBEAAgIAAwUFBQYGAwAAAAAAAAECEQMSIQQxQVFhInGBofATFJGx4QVSYsHR8RUWMqLC4kJTY//aAAwDAQACEQMRAD8AvFCEIAQhCAEISIBUJEIBUJEIBUJEqAEJEIBUJEIBUJEIBUJEIBUISIBUISIBUJEqAEJEIBUJEIBUJEIBUJEIBUIVDQ75WKOa13DxguANhBFb5wgL5QqF74+K3t3S34vB2U074+K9JHxeDspYL8QqCO+Ni3Sh8Xp+ymnfFxbpfm9N2EBfyFQB3xcX6X5vTdhN742L9L83puwgOgkLnw74+L9L82puwk75GL9M82pewgOhELnvvj4v0zzel7CVu+Ni/TPNqXsIDoJKqAO+Li/S/N6bsLzdvj4uPxvzem7CA6DQuee+Ti/TPN6XsJ3fKxfpfm1N2FaB0Ihc898rF+mebUvYR3ycY6Z5tTdhKJZ0Mhc8u3yMY6Z5tS9heffLxjpg+LUvYVysWdFIXOnfNxjpnm1L2EnfNxnpnm1L2EysWdGIXOR3zMZ6b5tS9hIN8vGem+bUn+2mVizo5C5u75mNdOPxaj/20HfNxrpvm1H/ALaZWLOkUKgNze+Ri0tbRxS1TXxzVVPFI009OMzHvDXC7WgjQq/lGqFioSIUKKhCRAC5RZZ1PE07HCAHUjQuaDqurX7D1FcoUnrMH6v9ZiMF0u3rcGufvR23pVX20nevwbojvjVX21NH7T1lNQEN71uDdEd8aq+2jvW4N0R3xqr7amSEKQzvWYN0N3xqr7aO9Zg3Q3fGqvtqZoQEM71mDdDd8aq+2g71uDD8TcfEKmruTzDwm1S6qqY4WGSWRkcbdXPe4MaOslQ2HdtNVGSoooQ6hpyWNlex/C19V7GOnZcZGDa57tm2wsUIQ3dRuNw+F+kfcwilBljZPNK90eU5Ysz3EZ3EtcSNGi1r7TBqqhhErgGkN0Ibwkhtfkve6tWk3PPq38LPd7ySX7Txzq6w5r8vV1LKbvcslmldI18UfgxE5ksd3DIM12ZDaxvy68wtrxncItq5a9OPe0kl6t6nqwJQz9tJKuRU0WHU1ruZb/mSj96kG5rAcMmfeUB42ZRNMNeQnjXVkU29jhzXBzhLKRyPMbr9YLVvIdy9IwZWRZfGLA/MFMT2rhUdH13+VjbMdShkwIxX4qV+GnmVbh+4mjquF4Clc/gs2bw1QNBsAJdqfF4ls2b1kTm37lAPMama/wBfRbrdC+owWOKaGSnND3TC2oY6Fwna17xnfwgfZxIB1yixtpbZPiF2SE8eN9mEa6og1JvV4TwbOEpDwmRue1RVWz241vCc91jT712HNlbkozJE94Dg6oqGmFvKQ4Scm0Agk7OW4sFC0mebjff3apryu11pkM71eC9DPxqr7aXvV4L0N3xmr7amSFCEM71mC9Dd8aq+2jvWYN0N3xqr7amaEKQzvWYN0N3xqr7aO9ZgvQ3fGqvtqZpUIQzvV4L0N3xmr7axsR3ssHjhlkbR8ZjHvbeoqXDMBcXBfY9RU7WHjQ+9p/7mT6pQFBYOLYzS2AAGKRAcgA7oXUC5iwsWxqm91IvtC6dWpcCIRCVCyURCVIgGyepPUVyhTHwMH6t9Zi6vl9S72p+hcoUx8BB+rfWYgOnH7T1lInP2nrKahQQhF0AKut2G+nBTPNNQtbV1IOVz7nuaF3jLdZDe2jfhvosHdPu9hqpH0kbntpjdjZW6d2y/mwdojPIfZcuhsczcZuBZRh1dUMEk8jzwENuKHuPFaPh1PWs5u24NU0r/AGOjw6w1O+NV+pGJMIr8QlZJiMjy3Lwr2EgNihvoXNHFYCQcreXLc3ykiz8G3OxNjZwjDxW+ChJPBwx7QMgNnOO1176m2trnbUdGImlhIe9z+EqZLeuz6aDma2wAHIAByFZKuWJtbViKOSNRXRNPxdvf0S482NjYGizQGgbAAAB7wTkIVOAIQhAR/d3E2ShkhLQ7hszA0i4LmxvkHJ/Y2rd0VWyeKOeM3ZNGyVh2HI9ocL+8UVdJHMwxytzsO0XI98Eag9SdDE1jWsY0NYxrWsaBZrWtFgAOQAKUrv1x/UVGrW/y6fXwHoQhUAhCEAIQhACEIQAsXFv5PN/dSfVKyli4v/J5/wC6k+qUIyhcN/nqm91YftAXTa5jw3+eaf3Vi+0BdOLT4EQIQhZKCEiEA2X1Luo/QuUKY+Ag/VvrsXV8nqT1FcoUvrMH6t9dijB06/aespqc/aespqpQUQ3Y1hqHOw+MuEXF7ue02c8P1bStPIXCxeeRhA9mpFjFaYIXPYA6VxEcLCSGvmdo0OI2NGrnHka1x5FEMNgMk3BRvLjG2aUyu0Ms5ueFfbYXSODiBsFgNAF3wIW8z3IxJ1uIm3A4K7EZZC3Jh1AREGtFhK4aBjOdziDryN15irJp6qSWQPByiGOKOGME5OHkaOTlDG3+daCgw9rHw0MAzsgJzHZw0/8ASSO+C3iAUgwLDZonMExBEcOcFvqXyycXNrrmDWOHU9XbYZ8qT69fT08t9a5jDNxpL0l8dfA3kTMrQ25Nha5NyTyknlJ2p6RC851BF1V26c/ftRt9WeXqWq/javFLbKbWXz+h+gwvsJTw4z9pvSf9PNX94ubMjMqZ/jaj4fhU99/D5/Q3/L//AK/2f7lzXRdUz/G1H8bU99/D5/Qfy+v+3+3/AGLmui6pn+Nqlm936/Nr/QH/AFGLeHtWeSjl39focNp+xfY4UsT2l0t2Wv8AJ/InSEIXrPhghCEAISOcBqSAOckBY0mIwt9mD1Au+hAZSxMX/k8/91J9UrFkxto9Sxx6yG+la7E8XkfFI2zWgseDtJsRzoRlO4efwzS+6sP2gLp9cvUJ/C1If/1qf7SF1Cq9yIgQhChQSJUiASTYeork+j9Zg/V/rsXWDth6lyfS+swfq/1mKMHTr9p6ympX7T1lIqU0OPsdNPFC02tGSCdgMpc0lvjDI5B1SlbqjwSmhu5sQDi3KTnk12HlPOFqccoJXl0kb2sIYwAuJuDd2y1+cqSwPzNB0JLW367BdZYkUowUldNtXr3+up54Z3iTclppT4fv9ORXG+BVvwtpfRHgHSQFmgbIXTPkaxmrw48p0Ui3I1EstLws0hkc+SRrSWtbZkZ4KwDQNMzHH/Etdvi7l566SkMTomsZI0yZy8aNdnFsrTzDat5gNMYqWnjNszYmZ7XsXkZnkX/tErk5W9XbO6rcZ6EIQpV26j+W1Htz+5ZuC7n4aiJj3VTI5Huc3giYy6+aw0LgTfTk5VhbqP5bUe39C8cDP31Tn/54r/ttXyW17R2r1fzZ+3yzeyQySyNRi7pPdHdqSObcfBGQHVrWE6gOETSRzgF6wsM3NxmAVNTKYYyAWAAZiDsNyDt5AASvbd+8GaKxB8DyEH+kest746/D4oWysZLDwd2ucRcsYWagAmxBuCAebnXZwh7SUVHduV73ofOjtG0LZsPFniNKbWZ5V2FrupcXWrWlVx11+IbnIuAdU0kxljZfOCBcW1OthqAQbEbNVjYhgAio46rhS4y8FxMoAbnaXbb62tzL2mwyGnp3mWWR0xzcGyOQNjOYWGYObd3OTppp17KpPdNFBAHRtyshOYm54rMuy/jRYWa1lp1uvj+XczXvzw1CSxHKGeszj/xrnWtPikuPCiFqVb3ptPNfTwJ/1GLR4ph3AZfCNfmJGnJ8/jWbuV9cf7T/ALmLlgxccaKfP8j17diwxdhnODtNb/GvyLDfWRt2vHvcb6FjSYqwbGuPwALVFIV9U/FmdJiz/YtaPhJWJJXSu2vd73F+heRTSgEcb6nU851KaUpSFCDSses9bk9o76FkFY1b61J7R30IRlWUH860furTfaQuoly7h5/ClJ7q032kLqJVmgQhCgBIlSIBHbD1Lk+lHgoOun+s1dYP2HqK5RpR4CD9X+sxRg6aftPWUiV+09ZTS4DlCpTWY5VCJrS/Rj+Lmvo2UatB6wX68mVRin3w4BWx0MXhCA41Dxq1uVpPBjndznYNm29pjVsjkble0PF2usRcXaQRcco0Vcbqd73PWNrqENhfdzpYmPtncWnjx3sA4naNhvfQ7fMtgwpbXHHk2npeunK+5Lhu3db3i4z92cIrXXXw00+ZajqyOaLhGEObwch6uKdCEwDRVRuS3csZL3NOJWygSxSDgnATE3a0FtuK4SWF/Gp9h9aJ4Y5QTaRjXWO1p5WnmINwfGCvdiwUX2XaPJgYkpx7ayv57tVfDh0fM2zpWjaR8K83VbRzn3vSsIppXM7kC3SOvWTnnef3LWqV4nhMD5pHPlla4+EcBE8tDbbc2W3z7dEfcrH+dfz+w2c6+ZLZsRybS4vj1P12B9r7JDChFydqKW6XBLoRNKD41JW7n4S5zBNKSz1XE4rTYGxfbLexBte+qedzEf51+23sNvMs+64vLzOv8a2T77+Ev0IuT4yjXnKkrNzsLvUzOOrhpkOrTlcOsHRO+5mP86/k/JT3TE5eaH8b2T77+Ev0Iwetb3cow5pH8gaG38ZIP0D5wvQ4NTtZwrpXlmUvuABdo1PJf3rLd00LI2BjBlaOTW+uut9b9a7YGzSjNSlwPB9pfa+Di4Lw8K23xqq48e49CkKUpCvcfmhpTSnFNKAaU0pxTSgEKxq31uT2jvoWSVjVp8FJ7R30ICrcP/nSk91aX7S1dQrl3DjfFKT3TpftLV1EqyghCFACRKkQDZPUu6iuUaY+Ag6qf6zF1dL6l3tT9C5QpfWIP1f6zFGVHSkrjc68pXmU+TaesphWjI0pkrw1pcbAAX1IA988ieVqceYJQ2mP9Lt97QH3ic3/AC1Yq3W4km0rSvu9et7NLR4Z3TVmvpskMbWviZI+J0hq3F155gwkZGFzRl5TlJ0zayPD6NsETYmm4Be4mwGZ73ue82Gy7nONvGvaGFsbGxsaGsY1rGNGxrWiwA94JxRybSjw8PXx8CZEpOXF9/r4eNjSkKUpCsmjDrKIS5wTo+IxEWBFib++semwpscpkB5XkNs4ZMznmzbOyhoDyLZfHfkWyKaVQYElBmztLwY3yMlLCy5D2uY4jNexacmy3sjrsCxX4IC17RIRnkLybPJIvIQDx9oMhNxYc4K3BTSoDWPwoWdZ5Yc0zmOawAsdJK2YHxkFtvGNF6UeHthe9zbWOjRxrtbpxfVWIFgBYCwHKs0rW11ZI2aNkbc4sXStAJeG3bYi3izm3LYLUYuTpHTDw5Ykssd9N/BX666COw3Mzg3PBaGvY20diGuFtbuNzs5k+joRE6VwN+EcXeyuAXvfl1cRYF7gLAaW27VlMkDgHAggi4INwRzhKVk5jSseSqja9sTpGNkfcsYXtD3gXvZu07D8BWSVDsXge/FaVjc2ThuFfYkANhha5mbxZv3866YcVK7dUmzE5Za0u3Xr9OLpEtKaU4ppXM2NKaU4ppQCFY1d61J7R30LJK0e6TGY6cMhPGmnLWNYDq1jjZ0juZo16zpz2Cm9xXuEn8JUXunSfaGrqRcsYMfwnRe6dJ9oaup1WUEIQoASJUiAbL6l3UfoXKVIPAQ9UH1mrq52w9S5SpbdzwnmEBPUHNUZUdISbT1lMK1Em67Dbn8IUe0/08fpTTuuw39IUfl4/St0zNm3URwnFZanEzmiyQcBK6B1wXOEbmMDnW2EiaQ25MwG0FbX7rcN6fSeXj9Kxod0OExue6OroGOkOaRzZIWukdrq4jadTt5yo0zcJpJ9VRvymlaj7rMO6fSeXj9Kb91eHdPpPLs9KtMwbcppWpO6rD+nUvlmelJ91OH9OpfLM9KUDbFNK1R3U4f06l8sz0ph3U4f06l8sz0qUBcexoUrLiN0ry4Ma0ZrF5BIaLAuc6wvlaCbamw1Wlh3Q1MjXSdzVbWNFiDSSM452ZdS9w8dgE+ixHD45jM/FYZiOGELXSxBsDZZDI/LY6kk2vzCy2n3U4f06l8sz0qxuMr3+BpSjTTSd3z49zWvU1ElfVVEwghe2J7QHv8AXGuyaWJEmrxcHUBampwqaHFZawllW2QTydwxP4PhHcHkbG/PxcrWa7SeJs5FJ6rHsMlGWSqo5ADcB0kbrHkIvsPjC01ZPQgtfTYhSxuYQ5rXStIJBuOPqRrykOW1UpJPspXVLjzb1e/kkZzTzZr16UvhS05fPXU8Nz9XVtM0zoTTw6yiF+cQMZpn8I+9iDrnByuzHQW020O7KidE2d8hjidK+ESODnRmVgDnNDmgjYdDsNja6gcm6SqZXTufOHUxMgijikaYgyQ6SMa0lucAeyudTyKWtxzCqjD4qGobCWuDXz5bQnh83COLWixGtxfS+vOsrAxNMTNafDTSufHU1h58fHmtXudt776vf3b/AMtpQ7qqGoDzFUsdwYDnaPBsTYWBFybjYNdnOFj4VWSzPqXPaY3cL97te1rWxtaMgY91/ZbXAatPPZaOposMD4pqKvoqV8bXNZGQWFrjoXOyk8ltvNdY9ZiDY6VkZrqSaQOs4snLy4NaQ0nTUnNr41FhzqD01dSV/wBK1167uHF9532WEZ4yw5x3urzaRrV7t+iretWTAYhJwL5nQtHBycHI0T8IRYNu4FrLEAuHzryGOwXAc4NzC4Pqme+R6n/EAorub3WMpxK2R0Tg9rjkLrDOLAddwSCOXTmWprceD6lxDoYmkNy8G0NjabXdYW127T+StSj2mo8NT6q2LZHNwm0k3UZKa4q0nF5qrXtOt6V2WhFK17Q5jmvadjmkOaeohY2JYhDTNzzyxxNOwvcG5vaja73lE9zGO4ZOZYaotpyWBzats0lIXkaZXOBsTsI99RXdhgtK6QT0mJNqQ4EOZNNmnYRsF32Lm2+jxripdpx4rf3Pd8fofIxMHLiSjGSkk3TtU16/dkmqt8SCSZlNS3BkOTul7PBscfUkRmxdrprlt41DpaSSDFQKud7y88K2Yh153Fp4MWF7DOA22wWPIo1PRvB2DX8lzXD4QSpBgOJvMoFXmlaIpmwPfZ7oJS27XZjra7QPFfRZnh4vtE0+zTTXHo0/nelGFOGVrjz+af0MvA3XxOh90qT/AF2rqpco7nj+FaAcv/EaX/Waurl1ZgEIQoASJUiAVcpUQtBEP7DfoXVhVE0suDMa1joJOKMtrTE6aC5DtqVYIb3O9wLg1xa29zbQW1SOp3tcGFpDjYgHxmwVhinwg/ichPVJ216CkwnoD/2XdtMosrMxOBy215vm/cvd0Lm8UjW4sLt8fKrDdSYXyYfJ+w7tpwpMO/R8nk//AHVyksrYFPCsjuTDv0dJ5K//AHJ3dGDxW4TDag35qKWT6pKZRZXCaVZYxLAv0XVH/LalH/EcE/RNX8l1CZeosrK6aQrS7vwX9D1Z/wAqn9CTu7Bf0LWfJMyZeosqstCzKJ8HFEjGbXXeXT32XaSGm1r6aC9h76sd9bg9uLglZf3Il9Cj8mP4KJHsOHyBzCQ5hoOMwjaHA6gjxpl6iyMVoh2xG1iRaz+MLnW7ibdSxFL491OAuc1jaIue4hrWCiaXOcTYAC9ySeRbaGbDgdcErvkiQ/uSi2V0V5uCtZtXhPLgFaf8mef3Je6sJ/QFb8iv9CZVzJ4FSFeTlbUsuFnZufrfkV/oXg52H8m5+t+RX+hWgVXlTSFarBh/6ArfkV/oT8uH/wBX635Ff6FaBUhTLq3+Cw/+r9b8iv8AQmOjw7+r1b8iO9CUSypJSdOpePC9XzK4SzD/AOr1d8iP9CbweH7PuervkR3oUopWe5KW+KYcP/v0nzStXWypimpqZ9TRimwSrp5G1tK8zOwkwtjjbIC4mS3F2bVc6jQBCEKFBCEIAQhCAEIQgBCEIAQsasrYoG55ZGsbzuNrnmHOfEFH/u2py8tbHM4cjrNaD1Am/wAKAlKFGqjdfEwXMMxHiyelY7d3UJ04Cf8A6faQEtQo2/dfE1uYwzfAz0rX1O+JTx7aepPUIu0gJoudMU42J17ueWrPWc5Csp2+lTlpyUtQXAXAc6JjTqOUEm/vKuY4C81dbcFpD5CweqGd1+XTS6y9dxUQnBjlxWhf+TW0h+CVpXXq44dJwdTFKA4mOWN9gASS1wNhr4l0DBvqw8Gx0lFUMc8Xyh0brcmubL9C1wIyxkKvDvr0/JSVPww9peMu+5A38TqD/ji9KlollkoVWd+aHoM/lY/QmP36Yh+IS+WZ6EspayFVtHvzU73tbJRyxsJs54lY8tHPlsL/AAqxsNr4amNs0ErZY3bHNN9eUHlB8R1CoMxCEIAQhCAEIQgBCEIAQhCAEIQgBCEIAQhCA0mN7m6atIdOHkhhYMsjmcUm/JsOu0LWje+w8ewk/b/8KWoQjimRPvfUH5En7Y9Cb3vMP/Nyft/+FLkKkyR5EWG4OgAy8G6x/ta/DZY7t7bDDthf5UqYoUGSPLyIcN7XC9vAO8rJ6V5v3r8KN7wy8YWNqiYAjqBU1QgUUiER71eEtIIgkuBYffEx+kr1dvZ4WdsEnl5PSpkhBlXIhfewwro7/LyelPbvZ4UNkD/LSn96mKEGSPIhg3scJ6M7y83aXo3e1wofi7vLz9pS9CDJHkiKd7zC+jO8vN2luMFwOmomubTx8GHlpdx5H3IFhq4lbNCBRS3IEIQhoEIQgBCEIAQhCAEIQgBCEIAQhCAEIQgBCEIAQhCAEIQgBCEIAQhCAEIQgBCEIAQhCAEIQgESoQgBCEIASIQgP//Z",
+        "rating": {
+            "rate": 4.7,
+            "count": 500
+        }
+    },
+    {
+        "id": 4,
+        "title": "Samsung-Televisor 30 FULLHD",
+        "price": "$30500",
+        "description": "El televisor que cuenta con una pantalla de 30 pulgadas, con control remoto, Netflix, FULLHD tv digital abierta",
+        "category": "televisor30",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTafqr9Gkiuv8RwMIHhPgPThgfS3GHkeRLj7g&usqp=CAU",
+        "rating": {
+            "rate": 2.1,
+            "count": 430
+        }
+    },
+    {
+        "id": 5,
+        "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+        "price": 695,
+        "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 4.6,
+            "count": 400
+        }
+    },
+    {
+        "id": 6,
+        "title": "Solid Gold Petite Micropave ",
+        "price": 168,
+        "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 70
+        }
+    },
+    {
+        "id": 7,
+        "title": "White Gold Plated Princess",
+        "price": 9.99,
+        "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 3,
+            "count": 400
+        }
+    },
+    {
+        "id": 8,
+        "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+        "price": 10.99,
+        "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+        "category": "jewelery",
+        "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+        "rating": {
+            "rate": 1.9,
+            "count": 100
+        }
+    },
+    {
+        "id": 9,
+        "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+        "price": 64,
+        "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+        "category": "electronics",
+        "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+        "rating": {
+            "rate": 3.3,
+            "count": 203
+        }
+    },
+    {
+        "id": 10,
+        "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+        "price": 109,
+        "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+        "category": "electronics",
+        "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 470
+        }
+    },
+    {
+        "id": 11,
+        "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+        "price": 109,
+        "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+        "category": "electronics",
+        "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 319
+        }
+    },
+    {
+        "id": 12,
+        "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+        "price": 114,
+        "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+        "category": "electronics",
+        "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+        "rating": {
+            "rate": 4.8,
+            "count": 400
+        }
+    },
+    {
+        "id": 13,
+        "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+        "price": 599,
+        "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+        "category": "electronics",
+        "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 250
+        }
+    },
+    {
+        "id": 14,
+        "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+        "price": 999.99,
+        "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+        "category": "electronics",
+        "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+        "rating": {
+            "rate": 2.2,
+            "count": 140
+        }
+    },
+    {
+        "id": 15,
+        "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+        "price": 56.99,
+        "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+        "category": "women's clothing",
+        "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+        "rating": {
+            "rate": 2.6,
+            "count": 235
+        }
+    },
+    {
+        "id": 16,
+        "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+        "price": 29.95,
+        "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+        "category": "women's clothing",
+        "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+        "rating": {
+            "rate": 2.9,
+            "count": 340
+        }
+    },
+    {
+        "id": 17,
+        "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+        "price": 39.99,
+        "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+        "category": "women's clothing",
+        "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+        "rating": {
+            "rate": 3.8,
+            "count": 679
+        }
+    },
+    {
+        "id": 18,
+        "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+        "price": 9.85,
+        "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+        "category": "women's clothing",
+        "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+        "rating": {
+            "rate": 4.7,
+            "count": 130
+        }
+    },
+    {
+        "id": 19,
+        "title": "Opna Women's Short Sleeve Moisture",
+        "price": 7.95,
+        "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+        "category": "women's clothing",
+        "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+        "rating": {
+            "rate": 4.5,
+            "count": 146
+        }
+    },
+    {
+        "id": 20,
+        "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+        "price": 12.99,
+        "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+        "category": "women's clothing",
+        "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+        "rating": {
+            "rate": 3.6,
+            "count": 145
+        }
+    }
+]

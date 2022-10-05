@@ -11,16 +11,19 @@ import ItemListContainer from './containers/ItemListContainer';
 import NotFound from './components/NotFound';
 import Cart from './containers/CartContainer';
 import ShopProvider from './context/ShopProvider';
+/* import { useEffect } from 'react';
+import algoritmoGuardadoAutomático from './services/guardarProductos'; */
 
 function App() {
+  
+   /*  useEffect(()=>{
+      algoritmoGuardadoAutomático();
+    }, []) */
+  
   return (
-    
     <ShopProvider>
-
     <BrowserRouter>
-    
      <Navbar/>
-    
     <Routes>
         <Route path='/' element={<ItemListContainer/>}/>
         <Route path='/category/:categoryId' element={<ItemListContainer/>}/>
@@ -28,11 +31,7 @@ function App() {
         <Route path='/cart' element={<Cart/>}/>
         <Route path='*' element={<NotFound/>}/>
     </Routes>
-    
-    
     </BrowserRouter>
-
-
     </ShopProvider>
   );
 }

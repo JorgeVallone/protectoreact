@@ -1,11 +1,23 @@
 import React, { useContext } from 'react'
 import { Shop, useCart } from '../../context/ShopProvider'
+import ordenGenerada from '../../services/generarOrden';
 import './styles.css';
 const Cart = () => {
   
 
   const {cart} = useContext(Shop);
   const {cartTotal, cartQuantity, isInCart, }= useCart();
+
+
+
+  const handleBuy = () => {
+    const importeTotal = cartTotal();
+    const orden = ordenGenerada("Alberto", "albertovallone33@gmail.com", 26144444, cart, importeTotal);
+    console.log(orden );
+
+  }
+
+
  
   console.log(cart);
   return (
@@ -29,7 +41,7 @@ const Cart = () => {
         
          <button>Eliminar Artículo</button>
 
-        <button>Confirmar compra</button>
+        <button onClick={handleBuy}>Confirmar compra</button>
         </tr>
        
      
