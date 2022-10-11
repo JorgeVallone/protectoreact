@@ -36,7 +36,7 @@ const ShopProvider = ({children}) => {
   }
 
   const removeItem = (itemToRemove) => {
-    const filteredProducts = cart.filter(item => item !== itemToRemove)
+    const filteredProducts = cart.filter(item => item.id!== itemToRemove)
     setCart(filteredProducts);
 }
 
