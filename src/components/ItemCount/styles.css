@@ -77,11 +77,12 @@
     background-color: #f1f1f1;
     color: white;
     margin: 30px; 
-
+ 
 }
 
 /* Container item count para poder centrar todo en un solo objeto */
 .containerItemCount{
-  display: flex;
+ display: flex;
   flex-direction: initial;
+  align-content: space-around;
 }

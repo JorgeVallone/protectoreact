@@ -23,12 +23,11 @@ const ItemDetailContainer = () => {
                     console.log("Document data:", docSnap.data());
                     setProductDetail({id: docSnap.id, ...docSnap.data()});
                     } else {
-                    // doc.data() will be undefined in this case
-                    console.log("No such document!");
+                
+                    alert("No se encuentra el producto!");
                     }
 
-                /* const response= await fetch (`https://fakestoreapi.com/products/${productId}`);
-                const data = await response.json(); */
+                
             } catch (error) {
                 console.log(error);
             }

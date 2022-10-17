@@ -29,7 +29,7 @@ console.log(qty);
         <h1>{product.title}</h1>
         <img className='imageItemDetail' src={product.image} alt="product-detail"/>
         {qty ? (
-          <button onClick={handleFinish} className="buttonFinalizarCompra">Finalizar compra</button>
+          <button onClick={handleFinish} className="buttonFinalizarCompra">Guardar producto al carrito</button>
           ) : (
           <ItemCount stock={8} initial={1} onAdd={addCart} />
         )}

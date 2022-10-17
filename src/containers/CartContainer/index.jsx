@@ -7,43 +7,63 @@ import { db } from "../../firebase/config";
 import { doc, updateDoc, getDoc } from "firebase/firestore";
 
 
-
 const Cart = () => {
-  
 
   const {cart} = useContext(Shop);
+
   const {cartTotal, cartQuantity, removeItem, clearCart }= useCart();
 
-const [ setLoading] = useState(false);
+const [ loading, setLoading] = useState(false);
 
   const handleBuy = async () => {
+
     setLoading(true)
+
     const importeTotal = cartTotal();
+
     const orden = ordenGenerada("Alberto", "albertovallone33@gmail.com", 26144444, cart, importeTotal);
+
     console.log(orden );
 
+
 const docRef = await addDoc(collection(db, "orders"), orden);
+
 cart.forEach(async(productoEnCarrito)=>{
+
   const productRef = doc(db, "products", productoEnCarrito.id);
+
 
   const productSnap = await getDoc(productRef);
 
 
   await updateDoc(productRef, {
+
     stock: productSnap.data().stock - productoEnCarrito.quantity,
+
   });
 
 });
+
 setLoading(false);
+
 clearCart()
 
 alert( `Gracias por su compra!! Se genero su compra con el ID: , ${docRef.id}`);
+
   }
 
 
- 
+ if(loading){
+
+  return <p>Cargando Compra...</p>
+
+ }
+
   console.log(cart);
+
   return (
+
+
 
     <>
 
@@ -79,8 +99,6 @@ alert( `Gracias por su compra!! Se genero su compra con el ID: , ${docRef.id}`);
 
          <button onClick={()=>removeItem(producto.id)}>Eliminar Artículo</button>
 
-
-
         </tr>
 
       })}
@@ -93,8 +111,6 @@ alert( `Gracias por su compra!! Se genero su compra con el ID: , ${docRef.id}`);
 
                <td>{cartTotal()|| ""} </td> 
 
-              
-
     </table>
 
       <button onClick={handleBuy}>Confirmar compra</button>
@@ -102,12 +118,14 @@ alert( `Gracias por su compra!! Se genero su compra con el ID: , ${docRef.id}`);
       <button onClick={clearCart}>Borrar carrito</button>
 
     </>}
-
     </>
 
     )
-
 }
+
+
+
+
 
 
 

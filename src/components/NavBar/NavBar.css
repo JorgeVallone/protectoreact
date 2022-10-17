@@ -9,7 +9,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(49, 1, 64);
     justify-content: space-between;
     position: sticky;
     
@@ -30,17 +30,16 @@ ul {
   }
   
   li a:hover {
-    background-color: rgb(255, 255, 255);
-    color: black;
+    background-color: rgb(83, 2, 140);
+    color: rgb(91, 74, 248);
   }
+ 
+ 
   .logo{
-    margin-left: 50%;
-  
-  }
-  .aLogo{
     text-decoration: none;
     color: white;
-    width: 175px;
-    margin: 75px;
-   
+    width: 85px;
+    margin: 15px;
+    height: 25px;
+    float: left;
   }
